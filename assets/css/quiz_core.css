@@ -1,0 +1,10 @@
+
+.interface-wrapper{
+  width: 580px;
+  height: 460px;
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
