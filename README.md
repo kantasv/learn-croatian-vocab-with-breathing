@@ -1,4 +1,4 @@
-# breathing-guidance-chi22
+# learn-croatian-vocab-with-breathing
 
 A quick and dirty implementation of quiz interface with/without breathing guidance to see if very small amount of mindfulness activity can help us remember vocabulary well. This work is hosted on the internet so that other researcher can carry out experiments with different conditions.
 
